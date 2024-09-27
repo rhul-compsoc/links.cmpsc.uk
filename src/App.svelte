@@ -26,5 +26,5 @@
     {/each}
   </div>
 
-  <footer>Made with &#9829; in Egham</footer>
+  <footer><span>Made with <span class="heart">♥</span> in Egham</span></footer>
 </main>

@@ -9,9 +9,7 @@
 <a href={url}>
   <div class={`${css.link} ${css.socialDims}`}>
     <div class={css.label}>
-      <object type="image/svg+xml" data={icon} aria-label={alt} class={css.svg}
-        >{alt}</object
-      >
+      <img src={icon} {alt} class={css.svg} />
     </div>
   </div>
 </a>
