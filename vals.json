@@ -1,0 +1,21 @@
+{
+  "title": "Welcome to RHUL CompSoc!",
+  "desc": "The society for all things tech! Follow us on all our socials for event info!",
+  "socials": [
+    ["Instagram", "https://instagram.com/rhulcompsoc"],
+    [
+      "Discord",
+      "https://discord.gg/rhul-computing-society-compsoc-500612695570120704"
+    ],
+    ["X", "https://x.com/rhulcompsoc"],
+    ["LinkedIn", "https://www.linkedin.com/company/rhulcompsoc/"]
+  ],
+  "other": [
+    ["Our website", "https://computingsociety.co.uk"],
+    [
+      "Get a membership! (£6)",
+      "https://www.su.rhul.ac.uk/societies/a-z/computing/"
+    ],
+    ["Royal Hackaway", "https://royalhackaway.com"]
+  ]
+}
