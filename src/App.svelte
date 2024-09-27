@@ -14,7 +14,7 @@
       <SocialLink
         alt={item[0]}
         url={item[1]}
-        icon={`/${item[0].toLowerCase()}.svg`}
+        icon={`/links.cmpsc.uk/${item[0].toLowerCase()}.svg`}
       />
     {/each}
   </div>
